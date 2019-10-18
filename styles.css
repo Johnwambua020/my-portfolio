@@ -31,3 +31,12 @@ a:hover{
     background-color:blue;
     font-weight: bold;
 }
+#home{
+    background: #50D5D9;
+    padding: 2em ;
+    color:black;
+    text-align: center;
+    margin: 0;
+    border: 0;
+    font-size: 100%;
+}
