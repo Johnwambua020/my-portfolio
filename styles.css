@@ -33,7 +33,7 @@ a{
     
 }
 #nav{
-    background: black;
+    background: white;
     width: 100%;
     position: fixed;
 
@@ -53,7 +53,7 @@ h1{
     margin: 0 auto;
 }
 #home{
-    background: #50D5D9;
+     background: #50D5D9; 
     padding: 2em ;
     color:black;
     text-align: center;
@@ -61,15 +61,23 @@ h1{
     border: 0;
     font-size: 100%;
     padding-top: 6em;
-    padding-bottom: 6em;
-}
+    padding-bottom: 6em; 
+} 
 #project{
-    background: #0B3E40;
+    background: #0B3E40; 
     color: #fff;
     text-align: center;
     padding-top: 7.5em;
-    padding-bottom: 7.5em;
+    padding-bottom: 7.5em; 
 
+}
+
+#about {
+    background: #268A8C; 
+    padding-top: 7.5em;
+    padding-bottom: 7.5em;
+    text-align: center;
+    color: #fff;
 }
 #project ul li a{
     text-decoration: none;
@@ -85,12 +93,16 @@ h1{
     color: black;
     font-style: italic;
     font-size: 1.5em;
-    background-color: #038C73;
-    padding-top: 7em;
-    padding-bottom: 7em;
+    background-color: #038C73; 
+    padding-top: 7.5em;
+    padding-bottom: 7.5em;
+    width: 100%;
 }
 footer{                                   
     text-align: center;
     color: blue;
     font-size: 1.5em;
+    background-color:black;
+    padding-top: 4em;
+    padding-bottom: 4em; 
 }
