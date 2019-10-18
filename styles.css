@@ -33,7 +33,7 @@ a{
     
 }
 #nav{
-    background: white;
+    background: black;
     width: 100%;
     position: fixed;
 
@@ -60,6 +60,8 @@ h1{
     margin: 0;
     border: 0;
     font-size: 100%;
+    padding-top: 6em;
+    padding-bottom: 6em;
 }
 #project{
     background: #0B3E40;
@@ -67,6 +69,12 @@ h1{
     text-align: center;
     padding-top: 7.5em;
     padding-bottom: 7.5em;
+
+}
+#project ul li a{
+    text-decoration: none;
+    color: #fff;
+    font-size: 15px;
 }
 .para {
     width: 800px;
