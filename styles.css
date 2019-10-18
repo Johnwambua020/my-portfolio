@@ -65,3 +65,8 @@ h1{
     padding-top: 7em;
     padding-bottom: 7em;
 }
+footer{                                   
+    text-align: center;
+    color: blue;
+    font-size: 1.5em;
+}
